@@ -24,10 +24,11 @@ This analysis reviews multi-year e-commerce performance between **2020 and 2024*
 
 ---
 
-<table width="90%" align="center">
-<tr><td
-
 # Key Business Insights
+
+<table width="90%" align="center">
+<tr><td>
+
 
 ## 1. Sales Trends & Order Volume Decline
 
