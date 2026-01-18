@@ -54,7 +54,7 @@ Between 2021 and 2024, total revenue reached **approximately $254M**, with perfo
 The slowdown is fundamentally demand-driven, caused by fewer purchases rather than lower spend per order. Restoring revenue growth will therefore require increasing order frequency and customer engagement, not price adjustments.
 
 <p align="center">
-  <img src="visuals/1-%20Sales%20Growth.png" width="92%">
+  <img src="visuals/1-%20Sales%20Growth.png" width="100%">
 </p>
 
 
@@ -68,7 +68,7 @@ Customer behavior shifted significantly over the analysis period. In 2021, reven
 The business has become increasingly reliant on a mature customer base, increasing exposure to demand volatility. Without renewed acquisition or stronger retention initiatives, revenue growth remains structurally constrained.
 
 <p align="center">
-  <img src="visuals/2-%20Customer%20Growth.png" width="92%">
+  <img src="visuals/2-%20Customer%20Growth.png" width="100%">
 </p>
 
 ---
@@ -81,7 +81,7 @@ Revenue contribution is highly concentrated across a limited number of product c
 High category concentration supports strong performance during growth periods but increases downside risk during demand slowdowns. Revenue resilience would benefit from broader category diversification and cross-selling strategies.
 
 <p align="center">
-  <img src="visuals/3-%20Product%20Categories%20Performance.png" width="92%">
+  <img src="visuals/3-%20Product%20Categories%20Performance.png" width="100%">
 </p>
 
 ---
@@ -94,7 +94,7 @@ Operational performance, particularly delivery speed, shows a clear relationship
 Delivery performance acts as a demand friction factor. Improving fulfillment speed can reduce return losses, protect margins, and support customer retention—especially in high-value categories.
 
 <p align="center">
-  <img src="visuals/4%20-%20Return%20Loss%20Risk%20%25.png" width="92%">
+  <img src="visuals/4%20-%20Return%20Loss%20Risk%20%25.png" width="100%">
 </p>
 
 
