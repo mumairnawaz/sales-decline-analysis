@@ -11,10 +11,11 @@ An established e-commerce business experienced a noticeable decline in revenue a
 </table>
 
 ---
+
 <table width="90%" align="center">
 <tr><td
 
-## Executive Summary
+##** Executive Summary**
 
 This analysis reviews multi-year e-commerce performance between **2020 and 2024** to understand the underlying drivers behind a sustained revenue decline following a period of growth. While total revenue peaked during the mid-period, subsequent years showed a consistent slowdown primarily driven by a reduction in order volume, not by pricing pressure or changes in average order value. Average order value remained broadly stable, indicating that customers continued to spend similar amounts per transaction, but purchased less frequently over time. Revenue generation became increasingly concentrated among a limited set of high-performing products, customers, and locations. This concentration supported short-term revenue stability but increased exposure to demand volatility when purchasing behavior softened. At the same time, customer acquisition slowed materially, shifting revenue reliance toward existing customers and repeat activity rather than sustained new demand. Overall, the findings suggest that the revenue decline reflects structural demand and engagement challenges, rather than tactical pricing or discounting issues, highlighting the need for targeted action across customer growth, retention, and operational efficiency.
 
