@@ -6,7 +6,7 @@
 
 > - [Background](#background)
 > - [Executive Summary](#executive-summary)
-> - [Key Business Insights](#key-business-insights)
+> - [Business Insights](#business-insights)
 >   - [Sales Trends & Order Volume Decline](#sales-trends--order-volume-decline)
 >   - [Customer Growth vs Retention Patterns](#customer-growth-vs-retention-patterns)
 >   - [Product Performance & Revenue Concentration](#product-performance--revenue-concentration)
@@ -48,7 +48,7 @@ This analysis reviews multi-year e-commerce performance between **2020 and 2024*
 
 ---
 
-# Key Business Insights
+# Business Insights
 
 <table width="90%" align="center">
 <tr><td>
