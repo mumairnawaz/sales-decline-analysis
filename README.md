@@ -12,8 +12,14 @@
 >   - [3. Product Performance & Revenue Concentration](#3-product-performance--revenue-concentration)
 >   - [4. Operational Risk: Delivery Speed & Return Behavior](#4-operational-risk-delivery-speed--return-behavior)
 > - [Insights Conclusion](#insights-conclusion)
+> - [Strategic Recommendations](#strategic-recommendations)
+>   - [Reignite Customer Acquisition with Targeted Growth Controls](#reignite-customer-acquisition-with-targeted-growth-controls)
+>   - [Strengthen Retention and Purchase Frequency Among Existing Customers](#strengthen-retention-and-purchase-frequency-among-existing-customers)
+>   - [Reduce Revenue Concentration Through Product Portfolio Expansion](#reduce-revenue-concentration-through-product-portfolio-expansion)
+>   - [Improve Operational Performance to Protect Demand and Margins](#improve-operational-performance-to-protect-demand-and-margins)
 
 ---
+
 
 <table width="90%" align="center">
 <tr><td>
