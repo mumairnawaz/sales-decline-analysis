@@ -7,11 +7,10 @@
 > - [Background](#background)
 > - [Executive Summary](#executive-summary)
 > - [Key Business Insights](#key-business-insights)
->   - [1. Sales Trends & Order Volume Decline](#1-sales-trends--order-volume-decline)
->   - [2. Customer Growth vs Retention Patterns](#2-customer-growth-vs-retention-patterns)
->   - [3. Product Performance & Revenue Concentration](#3-product-performance--revenue-concentration)
->   - [4. Operational Risk: Delivery Speed & Return Behavior](#4-operational-risk-delivery-speed--return-behavior)
-> - [Insights Conclusion](#insights-conclusion)
+>   - [Sales Trends & Order Volume Decline](#sales-trends--order-volume-decline)
+>   - [Customer Growth vs Retention Patterns](#customer-growth-vs-retention-patterns)
+>   - [Product Performance & Revenue Concentration](#product-performance--revenue-concentration)
+>   - [Operational Risk: Delivery Speed & Return Behavior](#operational-risk-delivery-speed--return-behavior)
 > - [Strategic Recommendations](#strategic-recommendations)
 >   - [Reignite Customer Acquisition with Targeted Growth Controls](#reignite-customer-acquisition-with-targeted-growth-controls)
 >   - [Strengthen Retention and Purchase Frequency Among Existing Customers](#strengthen-retention-and-purchase-frequency-among-existing-customers)
@@ -55,7 +54,7 @@ This analysis reviews multi-year e-commerce performance between **2020 and 2024*
 <tr><td>
 
 
-## 1. Sales Trends & Order Volume Decline
+## Sales Trends & Order Volume Decline
 
 Between 2021 and 2024, total revenue reached **approximately $254M**, with performance peaking in 2023 before declining sharply in 2024. The revenue drop of nearly **19% year-over-year in 2024** closely mirrors a similar decline in order volume, which fell from 56K orders in 2023 to 45K in 2024. In contrast, Average Order Value (AOV) remained relatively stable throughout the period, fluctuating within a narrow range around $1.35K. This stability indicates that customers continued to spend similar amounts per transaction, and pricing or discounting pressure was not the primary driver of revenue decline.
 
@@ -69,7 +68,7 @@ The slowdown is fundamentally demand-driven, caused by fewer purchases rather th
 
 ---
 
-## 2. Customer Growth vs Retention Patterns
+## Customer Growth vs Retention Patterns
 
 Customer behavior shifted significantly over the analysis period. In 2021, revenue was supported by a strong inflow of new customers. However, new customer acquisition dropped sharply from 2022 onward, approaching near-zero growth in subsequent years. Despite this, returning customers continued to generate the majority of revenue, contributing over **$77M in 2023 and $62M in 2024**. While this repeat-customer base provided short-term stability, overall revenue still declined as repeat purchase activity softened and was unable to fully compensate for the absence of new customers.
 
@@ -82,7 +81,7 @@ The business has become increasingly reliant on a mature customer base, increasi
 
 ---
 
-## 3. Product Performance & Revenue Concentration
+## Product Performance & Revenue Concentration
 
 Revenue contribution is highly concentrated across a limited number of product categories. Electronics alone accounts for approximately 48% of total revenue ($122M), followed by** Home & Garden (18%) and Sports (15%)**. Together, these three categories generate over **80%** of total sales. While order counts are relatively evenly distributed across categories, higher-value categories disproportionately drive revenue. As overall **demand declined in 2024**, this concentration amplified revenue contraction, as underperforming categories lacked sufficient scale to offset weakness in core segments.
 
@@ -95,7 +94,7 @@ High category concentration supports strong performance during growth periods bu
 
 ---
 
-## 4. Operational Risk: Delivery Speed & Return Behavior
+## Operational Risk: Delivery Speed & Return Behavior
 
 Operational performance, particularly delivery speed, shows a clear relationship with return behavior. Orders classified under **slow delivery exhibit a return rate of 6.7%**, more than three times higher than **fast or medium deliveries (approximately 2%)**. Although return losses are not the primary driver of revenue decline, elevated return risk linked to slower fulfillment contributes to margin erosion and reduced customer satisfaction, potentially discouraging repeat purchases.
 
