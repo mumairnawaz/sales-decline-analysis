@@ -14,6 +14,9 @@
 > - [Insights Conclusion](#insights-conclusion)
 
 ---
+
+<table width="90%" align="center">
+<tr><td>
   
 ## Background
 
@@ -119,10 +122,10 @@ Together, these factors reduced demand resilience and increased exposure to fluc
 
 # Strategic Recommendations
 
+Based on the analysis, revenue recovery and long-term stability require a coordinated response across customer growth, retention, product strategy, and operational execution. The following recommendations prioritize sustainable demand rebuilding rather than short-term tactical fixes.
+
 <table width="90%" align="center">
 <tr><td>
-
-Based on the analysis, revenue recovery and long-term stability require a coordinated response across customer growth, retention, product strategy, and operational execution. The following recommendations prioritize sustainable demand rebuilding rather than short-term tactical fixes.
 
 
 ## 1. Reignite Customer Acquisition with Targeted Growth Controls
