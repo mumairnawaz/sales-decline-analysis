@@ -13,7 +13,7 @@ An established e-commerce business experienced a noticeable decline in revenue a
 ---
 
 <table width="90%" align="center">
-<tr><td
+<tr><td>
 
 # Executive Summary
 
