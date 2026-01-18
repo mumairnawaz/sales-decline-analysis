@@ -1,4 +1,4 @@
-# sales-decline-analysis
+<img width="802" height="311" alt="image" src="https://github.com/user-attachments/assets/8a167332-5168-4897-a70c-0e621f428020" /># sales-decline-analysis
 
 <table width="90%" align="center">
 <tr><td>
@@ -9,6 +9,21 @@ An established e-commerce business experienced a noticeable decline in revenue a
 
 </td></tr>
 </table>
+
+
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Case Study Insights](#case-study-insights)
+  - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
+  - [Customer Growth vs Retention](#customer-growth-vs-retention)
+  - [Product Performance & Revenue Concentration](#product-performance--revenue-concentration)
+  - [Operational Risk: Delivery Performance & Returns](#operational-risk-delivery-performance--returns)
+- [Insights Conclusio](#insights-concluson)
+- [Strategic Recommendations](#strategic-recommendations)
+
+
+
 
 
 <table width="90%" align="center">
