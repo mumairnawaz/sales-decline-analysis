@@ -147,7 +147,7 @@ With revenue increasingly dependent on returning customers, stabilizing order vo
 
 Revenue is heavily concentrated within a small number of product categories, increasing vulnerability during demand slowdowns. Expanding the contribution of secondary categories can improve revenue resilience.
 
-**Key actions include:**
+**Buiness Actions To Take:**
 
 - Cross-selling complementary products alongside top-performing categories
 - Bundling lower-penetration categories with high-demand items
@@ -160,7 +160,7 @@ Revenue is heavily concentrated within a small number of product categories, inc
 
 Operational friction, particularly slower delivery performance, is associated with higher return rates and weaker repeat behavior. Improving fulfillment efficiency can support both customer satisfaction and profitability.
 
-**Key actions include:**
+**Buiness Actions To Take:**
 
 - Prioritizing faster delivery options for high-value orders and repeat customers
 - Monitoring return behavior by delivery speed and product category
