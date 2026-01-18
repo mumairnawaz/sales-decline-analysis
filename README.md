@@ -1,5 +1,18 @@
 # sales-decline-analysis
 
+## Table of Contents
+
+- [Background](#background)
+- [Executive Summary](#executive-summary)
+- [Key Business Insights](#key-business-insights)
+  - [1. Sales Trends & Order Volume Decline](#1-sales-trends--order-volume-decline)
+  - [2. Customer Growth vs Retention Patterns](#2-customer-growth-vs-retention-patterns)
+  - [3. Product Performance & Revenue Concentration](#3-product-performance--revenue-concentration)
+  - [4. Operational Risk: Delivery Speed & Return Behavior](#4-operational-risk-delivery-speed--return-behavior)
+- [Insights Conclusion](#insights-conclusion)
+
+
+
 <table width="90%" align="center">
 <tr><td>
   
@@ -11,16 +24,6 @@ An established e-commerce business experienced a noticeable decline in revenue a
 </table>
 
 
-## Table of Contents
-
-- [Executive Summary](#executive-summary)
-- [Case Study Insights](#case-study-insights)
-  - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
-  - [Customer Growth vs Retention](#customer-growth-vs-retention)
-  - [Product Performance & Revenue Concentration](#product-performance--revenue-concentration)
-  - [Operational Risk: Delivery Performance & Returns](#operational-risk-delivery-performance--returns)
-- [Insights Conclusio](#insights-concluson)
-- [Strategic Recommendations](#strategic-recommendations)
 
 
 
