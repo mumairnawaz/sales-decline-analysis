@@ -119,10 +119,10 @@ New customer acquisition declined materially after the initial growth phase, lim
 
 **Buiness Actions To Take:**
 
-Prioritizing acquisition in high-performing regions and product categories
-Leveraging referral and loyalty-driven onboarding
-Closely monitoring acquisition cost versus lifetime value to maintain profitability
-This approach rebuilds demand while avoiding margin erosion.
+- Prioritizing acquisition in high-performing regions and product categories
+- Leveraging referral and loyalty-driven onboarding
+- Closely monitoring acquisition cost versus lifetime value to maintain profitability
+- This approach rebuilds demand while avoiding margin erosion.
 
 ---
 
@@ -132,10 +132,10 @@ With revenue increasingly dependent on returning customers, stabilizing order vo
 
 **Buiness Actions To Take:**
 
-Personalized re-engagement campaigns based on purchase history
-Time-based incentives tied to replenishment or repeat usage cycles
-Improved post-purchase communication and lifecycle messaging
-Improving retention directly addresses the volume-driven nature of the revenue decline.
+- Personalized re-engagement campaigns based on purchase history
+- Time-based incentives tied to replenishment or repeat usage cycles
+- Improved post-purchase communication and lifecycle messaging
+- Improving retention directly addresses the volume-driven nature of the revenue decline.
 
 ---
 
@@ -145,10 +145,10 @@ Revenue is heavily concentrated within a small number of product categories, inc
 
 **Key actions include:**
 
-Cross-selling complementary products alongside top-performing categories
-Bundling lower-penetration categories with high-demand items
-Using performance data to identify underutilized categories with growth potential
-A more balanced portfolio reduces dependency on a narrow revenue base.
+- Cross-selling complementary products alongside top-performing categories
+- Bundling lower-penetration categories with high-demand items
+- Using performance data to identify underutilized categories with growth potential
+- A more balanced portfolio reduces dependency on a narrow revenue base.
 
 ---
 
@@ -158,10 +158,10 @@ Operational friction, particularly slower delivery performance, is associated wi
 
 **Key actions include:**
 
-Prioritizing faster delivery options for high-value orders and repeat customers
-Monitoring return behavior by delivery speed and product category
-Aligning fulfillment performance metrics with customer experience outcomes
-Operational improvements act as a demand enabler rather than a cost center.
+- Prioritizing faster delivery options for high-value orders and repeat customers
+- Monitoring return behavior by delivery speed and product category
+- Aligning fulfillment performance metrics with customer experience outcomes
+- Operational improvements act as a demand enabler rather than a cost center.
 
 ---
 
