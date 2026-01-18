@@ -1,4 +1,4 @@
-<img width="802" height="311" alt="image" src="https://github.com/user-attachments/assets/8a167332-5168-4897-a70c-0e621f428020" /># sales-decline-analysis
+# sales-decline-analysis
 
 <table width="90%" align="center">
 <tr><td>
