@@ -1,17 +1,17 @@
 # sales-decline-analysis
 
-
 ---
 
 ## Table of Contents
 
+> - [Background](#background)
 > - [Executive Summary](#executive-summary)
-> - [Case Study Insights](#case-study-insights)
->   - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
->   - [Customer Growth vs Retention](#customer-growth-vs-retention)
->   - [Product Performance & Revenue Concentration](#product-performance--revenue-concentration)
-> - [Insights Summary](#insights-summary)
-> - [Executive Recommendations](#executive-recommendations)
+> - [Key Business Insights](#key-business-insights)
+>   - [1. Sales Trends & Order Volume Decline](#1-sales-trends--order-volume-decline)
+>   - [2. Customer Growth vs Retention Patterns](#2-customer-growth-vs-retention-patterns)
+>   - [3. Product Performance & Revenue Concentration](#3-product-performance--revenue-concentration)
+>   - [4. Operational Risk: Delivery Speed & Return Behavior](#4-operational-risk-delivery-speed--return-behavior)
+> - [Insights Conclusion](#insights-conclusion)
 
 ---
   
