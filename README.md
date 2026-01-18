@@ -101,8 +101,89 @@ Delivery performance acts as a demand friction factor. Improving fulfillment spe
 </td></tr>
 </table>
 
+---
 
+<table width="90%" align="center">
+<tr><td>
+
+  
 ## Insights Concluion
 
 The observed revenue decline is not the result of pricing pressure or reduced customer spend per order. Instead, it reflects a combination of **declining order volume, stalled customer acquisition, revenue concentration, and operational inefficiencies**.
 Together, these factors reduced demand resilience and increased exposure to fluctuations in customer behavior, particularly during periods of economic or market softness.
+
+</td></tr>
+</table>
+
+---
+
+# Strategic Recommendations
+
+<table width="90%" align="center">
+<tr><td>
+
+Based on the analysis, revenue recovery and long-term stability require a coordinated response across customer growth, retention, product strategy, and operational execution. The following recommendations prioritize sustainable demand rebuilding rather than short-term tactical fixes.
+
+
+## 1. Reignite Customer Acquisition with Targeted Growth Controls
+
+New customer acquisition declined materially after the initial growth phase, limiting the business’s ability to replenish demand. Rather than broad, high-cost acquisition campaigns, growth efforts should focus on high-intent channels and data-driven targeting.
+
+**Buiness Actions To Take:**
+
+Prioritizing acquisition in high-performing regions and product categories
+
+Leveraging referral and loyalty-driven onboarding
+
+Closely monitoring acquisition cost versus lifetime value to maintain profitability
+
+This approach rebuilds demand while avoiding margin erosion.
+
+## 2. Strengthen Retention and Purchase Frequency Among Existing Customers
+
+With revenue increasingly dependent on returning customers, stabilizing order volume requires improving repeat-purchase behavior. Retention initiatives should aim to increase engagement frequency rather than transaction size.
+
+**Buiness Actions To Take:**
+
+Personalized re-engagement campaigns based on purchase history
+
+Time-based incentives tied to replenishment or repeat usage cycles
+
+Improved post-purchase communication and lifecycle messaging
+
+Improving retention directly addresses the volume-driven nature of the revenue decline.
+
+## 3. Reduce Revenue Concentration Through Product Portfolio Expansion
+
+Revenue is heavily concentrated within a small number of product categories, increasing vulnerability during demand slowdowns. Expanding the contribution of secondary categories can improve revenue resilience.
+
+**Key actions include:**
+
+Cross-selling complementary products alongside top-performing categories
+
+Bundling lower-penetration categories with high-demand items
+
+Using performance data to identify underutilized categories with growth potential
+
+A more balanced portfolio reduces dependency on a narrow revenue base.
+
+## 4. Improve Operational Performance to Protect Demand and Margins
+
+Operational friction, particularly slower delivery performance, is associated with higher return rates and weaker repeat behavior. Improving fulfillment efficiency can support both customer satisfaction and profitability.
+
+**Key actions include:**
+
+Prioritizing faster delivery options for high-value orders and repeat customers
+
+Monitoring return behavior by delivery speed and product category
+
+Aligning fulfillment performance metrics with customer experience outcomes
+
+Operational improvements act as a demand enabler rather than a cost center.
+
+## Executive Outlook
+
+Revenue recovery will depend less on pricing optimization and more on restoring demand momentum through customer engagement, diversification, and operational excellence. A coordinated strategy across these four areas positions the business to stabilize near-term performance while building a more resilient growth model.
+
+</td></tr>
+</table>
