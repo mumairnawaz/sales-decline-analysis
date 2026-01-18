@@ -21,7 +21,7 @@ This analysis reviews multi-year e-commerce performance between **2020 and 2024*
 </td></tr>
 </table
 
-
+---
 
 # Key Business Insights
 
