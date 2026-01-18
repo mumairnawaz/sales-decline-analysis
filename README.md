@@ -142,6 +142,8 @@ Closely monitoring acquisition cost versus lifetime value to maintain profitabil
 
 This approach rebuilds demand while avoiding margin erosion.
 
+---
+
 ## 2. Strengthen Retention and Purchase Frequency Among Existing Customers
 
 With revenue increasingly dependent on returning customers, stabilizing order volume requires improving repeat-purchase behavior. Retention initiatives should aim to increase engagement frequency rather than transaction size.
@@ -155,6 +157,8 @@ Time-based incentives tied to replenishment or repeat usage cycles
 Improved post-purchase communication and lifecycle messaging
 
 Improving retention directly addresses the volume-driven nature of the revenue decline.
+
+---
 
 ## 3. Reduce Revenue Concentration Through Product Portfolio Expansion
 
@@ -170,6 +174,8 @@ Using performance data to identify underutilized categories with growth potentia
 
 A more balanced portfolio reduces dependency on a narrow revenue base.
 
+---
+
 ## 4. Improve Operational Performance to Protect Demand and Margins
 
 Operational friction, particularly slower delivery performance, is associated with higher return rates and weaker repeat behavior. Improving fulfillment efficiency can support both customer satisfaction and profitability.
@@ -183,6 +189,8 @@ Monitoring return behavior by delivery speed and product category
 Aligning fulfillment performance metrics with customer experience outcomes
 
 Operational improvements act as a demand enabler rather than a cost center.
+
+---
 
 ## Executive Outlook
 
