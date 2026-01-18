@@ -1,5 +1,11 @@
 # sales-decline-analysis
 
+
+
+<table width="90%" align="center">
+<tr><td>
+
+  
 ## Table of Contents
 
 - [Background](#background)
@@ -12,6 +18,8 @@
 - [Insights Conclusion](#insights-conclusion)
 
 
+</td></tr>
+</table>
 
 <table width="90%" align="center">
 <tr><td>
