@@ -109,7 +109,6 @@ Delivery performance acts as a demand friction factor. Improving fulfillment spe
 </td></tr>
 </table>
 
----
 
 # Strategic Recommendations
 
@@ -168,7 +167,6 @@ Operational friction, particularly slower delivery performance, is associated wi
 - Aligning fulfillment performance metrics with customer experience outcomes
 - Operational improvements act as a demand enabler rather than a cost center.
 
----
 
 </td></tr>
 </table>
