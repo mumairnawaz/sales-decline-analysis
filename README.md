@@ -10,7 +10,6 @@ An established e-commerce business experienced a noticeable decline in revenue a
 </td></tr>
 </table>
 
----
 
 <table width="90%" align="center">
 <tr><td>
@@ -22,7 +21,7 @@ This analysis reviews multi-year e-commerce performance between **2020 and 2024*
 </td></tr>
 </table
 
----
+
 
 # Key Business Insights
 
